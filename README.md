@@ -1,0 +1,15 @@
+<html>
+  <body>
+    <div style="text-align:center;">
+    <div>
+      <h1>Refandy Aidil Akbar</h1>
+      <a href="/index.html">Home</a>
+      <a href="/portfolio.html">Portfolio</a>
+      <a href="/contact.html">Contact</a>
+    </div>
+    <div>
+      <img src="Yuzu.png" alt="Profilku" style="width: 250px; height: auto; border-radius: 10px;">
+    </div>
+    </div>
+  </body>
+</html>
